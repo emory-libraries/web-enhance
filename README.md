@@ -2,7 +2,7 @@
 
 This repository is dedicated to receiving and reviewing enhancement request submissions. 
 
-* [View existing requests](https://github.com/emory-libraries/web-enhance/projects/1)
+* [View existing requests]([https://github.com/orgs/emory-libraries/projects/6])
 
 * Submit a [new request directly](https://github.com/emory-libraries/web-enhance/issues/new?assignees=&labels=&template=feature_request.md&title=)
 
